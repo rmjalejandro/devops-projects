@@ -2,7 +2,8 @@
 
 Welcome to my DevOps learning repository! 🚀 This is where I document my journey as I dive into the world of DevOps, exploring various tools, technologies, and best practices.
 
-About Me
+About Me:
+
 👋 Hi, I’m Alejandro Rodriguez, a passionate DevOps enthusiast, i started 7 years ago as IT Support, moved to Sysadmin and later on i became a Hybrid Infrastructure Manager. Besides being very happy doing non-technical work, i always enjoy automating processes, optimizing workflows, and exploring new technologies, that's why i created this repository, it is a reflection of my continuous learning and experimentation in the field of DevOps. My goal is to show what i'm cappable of doing and hopefully, become a full time DevOps Engineer.
 
 Here are some of the projects I’ve worked on:
